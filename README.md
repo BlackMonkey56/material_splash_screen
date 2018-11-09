@@ -1,4 +1,4 @@
-# materail_splash_screen
+# material_splash_screen
 
 A new Flutter application.
 
